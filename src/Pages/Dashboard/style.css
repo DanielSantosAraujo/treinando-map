@@ -1,0 +1,52 @@
+*{
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: pink; */
+}
+
+.container-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+
+.card-carro {
+    background-color: green;
+    width: 80%;
+    height: 250px;
+    border-radius: 20px;
+    margin: 10px;
+    display: flex;
+}
+
+.card-carro img {
+    width: 300px;
+}
+
+.card-carro .detalhes{
+    padding: 15px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-carro .info{
+    display: flex;
+    padding: 10px;
+}
+
+.card-carro .detalhes button{
+    height: 50px;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+.card-carro .detalhes button:hover{
+    height: 50px;
+    background-color: white;
+    border-radius: 20px;
+}
