@@ -34,24 +34,6 @@ const carros = [
         ano: 2020,
         diaria: 160,
         foto: 'https://www.pngmart.com/files/4/Honda-Civic-PNG-Transparent-Picture.png'
-    },
-    {
-        id: 5,
-        modelo: 'Civic',
-        marca: 'Honda',
-        categoria: 'Executivo',
-        ano: 2020,
-        diaria: 160,
-        foto: 'https://www.pngmart.com/files/4/Honda-Civic-PNG-Transparent-Picture.png'
-    },
-    {
-        id: 6,
-        modelo: 'Civic',
-        marca: 'Honda',
-        categoria: 'Executivo',
-        ano: 2020,
-        diaria: 160,
-        foto: 'https://www.pngmart.com/files/4/Honda-Civic-PNG-Transparent-Picture.png'
     }
 ]
 
